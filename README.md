@@ -6,7 +6,6 @@ A list of expected technology to be used in this assignment
 * HTML
 * CSS
 * Web Browser
-* Bootstrap
 
 ## Assignment
 In this repository you will find two image files that represent two web pages. Convert the provided designs into a functional web page.
