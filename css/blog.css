@@ -115,3 +115,6 @@ footer {
 .bottom-footer {
     font-size: 14px;
 }
+
+a:visited { text-decoration: none; }
+a { text-decoration: none; color: white;}
